@@ -2,12 +2,6 @@ AlaaNafez - Personal Portfolio Website
 
 A responsive personal portfolio website built using HTML and CSS.
 
-Pages
-
-- Home
-- About
-- Contact
-
 Technologies
 
 - HTML
